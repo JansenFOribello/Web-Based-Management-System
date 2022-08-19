@@ -1,6 +1,6 @@
 # Web-Based-Management-System
 
-© Copyright 2022 - Project-IT-25 - Melham Construction Company Interns
+### © Copyright 2022 - Project-IT-25 - Interns
 
 Intern members:
 
